@@ -1,0 +1,32 @@
+- name: Cryptocurrency price checker
+  url: https://crypto-watcher-e3364.web.app/
+  status: live
+  description: A cryptocurrency price watcher built with React which consumes data from the Coingecko API. The project is hosted on Firebase.
+  tags:
+    - JavaScript
+    - React
+    - REST API
+    - Axios
+  icon: website
+  image: images/crypto-watcher.png
+
+- name: Messenger Clone
+  url: https://fbx-clone.web.app/
+  description: A messenger application built with React, and Axios. The project is hosted on Firebase.
+  status: live
+  tags:
+    - JavaScript
+    - Firestore
+  icon: website
+  image: images/messenger.png
+
+- name: Recipes App
+  url: https://recipes-app-a2cbb.firebaseapp.com/
+  description: A recipes search application built with React, that returns recipes from the Edamam food API. The project is hosted on Firebase.
+  status: live
+  tags:
+    - JavaScript
+    - Firebase
+    - Authy
+  icon: website
+  image: images/recipes-simple-cards.png

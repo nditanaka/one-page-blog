@@ -1,0 +1,30 @@
+- profile:
+  initials: TC
+  name: Tanaka Chingonzo
+  email: tanaching@gmail.com
+  profession: Software Engineer
+  image: images/profile-2.jpg
+  location: Cleveland, USA
+  relocation: true
+  company: Freelance
+  for_hire: true
+  focus: ReactJS, React Native
+  focus_url: https://reactjs.org
+  about: |
+    Software Engineer from Zimbabwe currently in Ohio
+
+  skills:
+    - JavaScript
+    - Python
+    - C++
+  tools:
+    - React
+    - Flask
+    - Gatsby
+    - React Native
+
+  budget:
+    currency: $
+    min: 5
+    max: 10
+    default: 10
