@@ -30,3 +30,21 @@
     - Authy
   icon: website
   image: images/recipes-simple-cards.png
+
+- name: Recipes Finder Native iOS app
+  description: A recipes search application built with React Native for iOS, that returns recipes from the Edamam food API.
+  status: in progress
+  tags:
+    - JavaScript
+    - React Native
+  icon: github
+  image: images/recipes-native.png
+
+- name: Shopping List Native iOS app
+  description: A simple shopping list application built with React Native for iOS, that lets users create and store listicles.
+  status: in progress
+  tags:
+    - JavaScript
+    - React Native
+  icon: github
+  image: images/shoppinglist-native.png
